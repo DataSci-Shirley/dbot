@@ -15,3 +15,6 @@ run the following commands:<br>
 pip install -r requirements.txt<br>
 python mybot.py
 
+# Note to Facilitator 
+This bot was developed in GitHub Codespaces as per project requirements. To ensure the bot remains online 24/7 for evaluation, it has been deployed to [Render Host]. The code remains identical to the version in this repository.
+
