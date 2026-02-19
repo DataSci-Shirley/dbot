@@ -16,8 +16,12 @@ pip install -r requirements.txt<br>
 python mybot.py
 
 # Note to Learning Facilitator
-This bot was developed in GitHub Codespaces 
-as per project requirements. The bot is hosted and running live via GitHub Codespaces. Please message in the Discord server to test it.
+This bot was developed in GitHub Codespaces as per project requirements. 
+The bot is deployed and to ensure it is live while you are testing out, 
+i have deployed it to run live 24/7 on Daki (https://daki.cc), 
+a free Discord bot hosting platform. The code remains identical to 
+the version in this repository. The .env file containing secrets is 
+gitignored and not pushed to GitHub. Please message in the Discord server to test it.
 
 #Discord Link: https://discord.gg/W5tfBYfT
 
